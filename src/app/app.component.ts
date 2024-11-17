@@ -10,5 +10,5 @@ import { LogoComponent } from './logo/logo.component';
   styleUrl: './app.component.css',
 })
 export class AppComponent {
-  title = 'Mi Demo App';
+  title = 'Hello World!';
 }
